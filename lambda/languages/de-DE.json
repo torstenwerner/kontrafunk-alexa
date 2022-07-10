@@ -1,5 +1,5 @@
 {
-    "SKILL_NAME": "the Dabble Lab audio player template",
+    "SKILL_NAME": "Gegenfunkexperiment",
     "ABOUT": [
         "This is an audio streaming skill that was built with a free template from dabblelab.com. To continue listening say: resume, or say: stop to stop listening."
     ],
